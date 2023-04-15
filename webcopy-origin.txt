@@ -1,0 +1,196 @@
+Uri: https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700&subset=cyrillic
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuHMQg.ttf
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuHMQg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuHMQg.ttf
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuHMQg.ttf
+Content Type: font/ttf
+
+Uri: https://gel5.shop-op.site/?wbraid=ClEKCAjw0N6hBhBQEkEAA4TDzbisrxbg67wqXPHrrqnhwpv-6iDtK49kb0AKraFZthWSwe-Ni6j0yz3ph9h2tzIEuG1HM2w5ZovnHRag0xoC4XU
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\index.htm
+Content Type: text/html
+
+Uri: https://gel5.shop-op.site/common/js/jquery.base64.js
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\common\js\jquery.base64.js
+Content Type: application/javascript
+
+Uri: https://gel5.shop-op.site/common/modules/mod/plugins.js
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\common\modules\mod\plugins.js
+Content Type: application/javascript
+
+Uri: https://gel5.shop-op.site/common/modules/mod/plugins_geo2.js
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\common\modules\mod\plugins_geo2.js
+Content Type: application/javascript
+
+Uri: https://gel5.shop-op.site/common/modules/mod/saved_resource
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\common\modules\mod\saved_resource
+Content Type: application/octet-stream
+
+Uri: https://gel5.shop-op.site/tmpl/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://gel5.shop-op.site/tmpl/css/reset.css
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\css\reset.css
+Content Type: text/css
+
+Uri: https://gel5.shop-op.site/tmpl/css/styles.css
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\css\styles.css
+Content Type: text/css
+
+Uri: https://gel5.shop-op.site/tmpl/img/0J9KQQA1bP0kN48DH65KXrqwx1uxxo4rHsZKqZ2f.jpeg
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\0J9KQQA1bP0kN48DH65KXrqwx1uxxo4rHsZKqZ2f.jpeg
+Content Type: image/jpeg
+
+Uri: https://gel5.shop-op.site/tmpl/img/1-2.gif
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\1-2.gif
+Content Type: image/gif
+
+Uri: https://gel5.shop-op.site/tmpl/img/1bg.jpg
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\1bg.jpg
+Content Type: image/jpeg
+
+Uri: https://gel5.shop-op.site/tmpl/img/1tz.jpg
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\1tz.jpg
+Content Type: image/jpeg
+
+Uri: https://gel5.shop-op.site/tmpl/img/2-2.gif
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\2-2.gif
+Content Type: image/gif
+
+Uri: https://gel5.shop-op.site/tmpl/img/2tz.jpg
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\2tz.jpg
+Content Type: image/jpeg
+
+Uri: https://gel5.shop-op.site/tmpl/img/3tz.jpg
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\3tz.jpg
+Content Type: image/jpeg
+
+Uri: https://gel5.shop-op.site/tmpl/img/a9yETFPVIJjddDuU5k0NetMN7kaHYORXnRnr5YAg.jpeg
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\a9yETFPVIJjddDuU5k0NetMN7kaHYORXnRnr5YAg.jpeg
+Content Type: image/jpeg
+
+Uri: https://gel5.shop-op.site/tmpl/img/DhadYWln4neHq92XnxS2IoqBfjPQpqX1ccTgQPX9.jpeg
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\DhadYWln4neHq92XnxS2IoqBfjPQpqX1ccTgQPX9.jpeg
+Content Type: image/jpeg
+
+Uri: https://gel5.shop-op.site/tmpl/img/favicon-1.png
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\favicon-1.png
+Content Type: image/png
+
+Uri: https://gel5.shop-op.site/tmpl/img/favicon.png
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\favicon.png
+Content Type: image/png
+
+Uri: https://gel5.shop-op.site/tmpl/img/jZJcJHDKhNF7W7vPJ7GYKIaPn8zLfY8NndQnnivA.jpeg
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\jZJcJHDKhNF7W7vPJ7GYKIaPn8zLfY8NndQnnivA.jpeg
+Content Type: image/jpeg
+
+Uri: https://gel5.shop-op.site/tmpl/img/jZJcJHDKhNF7W7vPJ7GYKIaPn8zLfY8NndQnnivA.jpg
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\jZJcJHDKhNF7W7vPJ7GYKIaPn8zLfY8NndQnnivA.jpg
+Content Type: image/jpeg
+
+Uri: https://gel5.shop-op.site/tmpl/img/LsQf9gr5IE5XuFqQ5PrhkuQFBtUZgGex3oEHrggV.jpeg
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\LsQf9gr5IE5XuFqQ5PrhkuQFBtUZgGex3oEHrggV.jpeg
+Content Type: image/jpeg
+
+Uri: https://gel5.shop-op.site/tmpl/img/new.gif
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\new.gif
+Content Type: image/gif
+
+Uri: https://gel5.shop-op.site/tmpl/img/offer3__benefit1_icon.png
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\offer3__benefit1_icon.png
+Content Type: image/png
+
+Uri: https://gel5.shop-op.site/tmpl/img/offer3__benefit2_icon.png
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\offer3__benefit2_icon.png
+Content Type: image/png
+
+Uri: https://gel5.shop-op.site/tmpl/img/offer3__benefit3_icon.png
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\offer3__benefit3_icon.png
+Content Type: image/png
+
+Uri: https://gel5.shop-op.site/tmpl/img/offer3__clock_icon.png
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\offer3__clock_icon.png
+Content Type: image/png
+
+Uri: https://gel5.shop-op.site/tmpl/img/offer3__discount_bg.png
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\offer3__discount_bg.png
+Content Type: image/png
+
+Uri: https://gel5.shop-op.site/tmpl/img/offer__tick_icon.png
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\offer__tick_icon.png
+Content Type: image/png
+
+Uri: https://gel5.shop-op.site/tmpl/img/order_steps1__step1_icon.png
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\order_steps1__step1_icon.png
+Content Type: image/png
+
+Uri: https://gel5.shop-op.site/tmpl/img/order_steps1__step2_icon.png
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\order_steps1__step2_icon.png
+Content Type: image/png
+
+Uri: https://gel5.shop-op.site/tmpl/img/order_steps1__step3_icon.png
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\order_steps1__step3_icon.png
+Content Type: image/png
+
+Uri: https://gel5.shop-op.site/tmpl/img/order_steps1__step4_icon.png
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\order_steps1__step4_icon.png
+Content Type: image/png
+
+Uri: https://gel5.shop-op.site/tmpl/img/sb1lttQVkubSY7eG4R7UhVeraQo0FjgXHjr7ESyq.jpg
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\sb1lttQVkubSY7eG4R7UhVeraQo0FjgXHjr7ESyq.jpg
+Content Type: image/jpeg
+
+Uri: https://gel5.shop-op.site/tmpl/img/slider__arrows.png
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\slider__arrows.png
+Content Type: image/png
+
+Uri: https://gel5.shop-op.site/tmpl/img/sY6B1KiwHN4zJgiuHDjjteEDGsSCd5rc3cfim7OT.jpeg
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\sY6B1KiwHN4zJgiuHDjjteEDGsSCd5rc3cfim7OT.jpeg
+Content Type: image/jpeg
+
+Uri: https://gel5.shop-op.site/tmpl/img/VKeRa3dugIfuvI9tU3Pp1gjvzsuP4jHPYpRRJUsU.jpeg
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\VKeRa3dugIfuvI9tU3Pp1gjvzsuP4jHPYpRRJUsU.jpeg
+Content Type: image/jpeg
+
+Uri: https://gel5.shop-op.site/tmpl/img/WgU08Q4xMAqFbnXUzmBU8OSH6C4lk1Xmw87zYWQc.jpeg
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\WgU08Q4xMAqFbnXUzmBU8OSH6C4lk1Xmw87zYWQc.jpeg
+Content Type: image/jpeg
+
+Uri: https://gel5.shop-op.site/tmpl/img/Y6cM9lEqGHXnJj9i1zGbRcaDYiBX6uZmrFx9cFw3.jpeg
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\img\Y6cM9lEqGHXnJj9i1zGbRcaDYiBX6uZmrFx9cFw3.jpeg
+Content Type: image/jpeg
+
+Uri: https://gel5.shop-op.site/tmpl/js/date.js
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\js\date.js
+Content Type: application/javascript
+
+Uri: https://gel5.shop-op.site/tmpl/js/jquery-3.5.1.min.js
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\js\jquery-3.5.1.min.js
+Content Type: application/javascript
+
+Uri: https://gel5.shop-op.site/tmpl/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://gel5.shop-op.site/tmpl/js/previewYouTube.js
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\js\previewYouTube.js
+Content Type: application/javascript
+
+Uri: https://gel5.shop-op.site/tmpl/js/scripts.js
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://gel5.shop-op.site/tmpl/pages/oferta.html
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\pages\oferta.html
+Content Type: text/html
+
+Uri: https://gel5.shop-op.site/tmpl/pages/policy.html
+File Name: C:\Downloaded Web Sites\gel5.shop-op.site\tmpl\pages\policy.html
+Content Type: text/html
+
